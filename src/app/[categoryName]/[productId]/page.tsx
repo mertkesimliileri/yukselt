@@ -73,7 +73,6 @@ const useStyles = createStyles((theme) => ({
     overflow: "visible",
     overflowY: "scroll",
   },
-  box: {},
 }));
 
 const images = [
